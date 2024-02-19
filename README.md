@@ -25,7 +25,7 @@ Tackled the task of removing the nth occurrence of a string in a list using Pyth
 Developed a Python script to calculate the sum of elements in an array. Basic yet fundamental, this task underscores Python's simplicity and readability in handling data. ➕ #PythonProgramming #ArrayOperations #CodingInPython
 
 🔄 Swap Any Two Random Elements in an Array:
-Explored an interesting problem: swapping any two random elements in an array using Python. Python's flexibility and simplicity make tasks like this surprisingly straightforward! 🔄 #PythonTricks #ArrayOperations #ProgrammingProblems
+Explored an interesting problem: swapping any two random elements in an array using Python. Python's flexibility and simplicity make tasks like this surprisingly straightforward! 🔄
 
 🔄 Swap First and Last Elements in an Array:
 Implemented a Python program to swap the first and last elements in an array! Python's ease of array manipulation shines through in tasks like this. 🔄 #PythonProgramming #ArrayManipulation #CodingInPython
